@@ -1,0 +1,15 @@
+{
+    "id": "{497FB312-DC7C-4E24-99CF-A77CEE7D02AE}",
+    "name": "Fenster",
+    "type": 3,
+    "vendor": "",
+    "aliases":
+    [
+        "Name1UnterstütztesGerät",
+        "Name2UnterstütztesGerät"
+    ],  
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "Fenster"
+}
