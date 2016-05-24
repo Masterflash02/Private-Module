@@ -1,1 +1,14 @@
-
+{
+    "id": "{FF70E972-66FA-4D6D-8341-8EE6697A0970}",
+    "name": "Heizung",
+    "type": 3,
+    "vendor": "",
+    "aliases":
+    [
+        "Heizung"
+    ],  
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "Heizung"
+}
